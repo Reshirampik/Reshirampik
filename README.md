@@ -6,8 +6,8 @@
   />
 
   <p>
-    <a href="https://github.com/Reshirampik/Car-dealerchip">
-      <img src="https://img.shields.io/badge/Featured%20project-Car--dealerchip-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Featured project: Car-dealerchip" />
+    <a href="https://github.com/Reshirampik/car-dealership">
+      <img src="https://img.shields.io/badge/Featured%20project-car--dealership-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Featured project: car-dealership" />
     </a>
     <a href="https://github.com/Reshirampik?tab=repositories">
       <img src="https://img.shields.io/badge/Explore-my%20repositories-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" />
@@ -37,7 +37,7 @@ I enjoy building backend applications, designing REST APIs, working with databas
 
 ## 🚀 Featured project
 
-### [Car-dealerchip](https://github.com/Reshirampik/Car-dealerchip)
+### [car-dealership](https://github.com/Reshirampik/car-dealership)
 
 A Java backend for a multi-role car dealership management system.
 
